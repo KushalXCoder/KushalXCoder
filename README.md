@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Los Sentos Elite (for an event) and on an Invoice Generator**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👯 I’m looking to collaborate on **Web Dev related projects.**
 
