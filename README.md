@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kushal Rathod</h1>
 <h3 align="center">A passionate web developer interested more in Frontend but intended in learning Backend too.</h3>
 
-- 🔭 I’m currently working on **Los Sentos Elite (for an event) and on an Invoice Generator**
+- 🔭 I’m currently working on **an Invoice Generator**
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **React JS**
 
 - 👯 I’m looking to collaborate on **Web Dev related projects.**
 
