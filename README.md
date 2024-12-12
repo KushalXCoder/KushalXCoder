@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an Invoice Generator**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Backend**
 
 - 👯 I’m looking to collaborate on **Web Dev related projects.**
 
