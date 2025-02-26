@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushal Rathod</h1>
 <h3 align="center">A passionate web developer interested more in Frontend but intended in learning Backend too.</h3>
 
-- 🔭 I’m currently working on **Drag and Go**
+- 🔭 I’m currently working on **Bored.exe**
 
 - 🌱 I’m currently learning **Backend**
 
