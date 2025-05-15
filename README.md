@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👯 I’m looking to collaborate on **Web Dev related projects.**
+- 👯 I’m looking to collaborate on **Web Dev related projects**
 
 - 📫 How to reach me **kushalrathod044@gmail.com**
 
