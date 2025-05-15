@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kushal Rathod</h1>
 <h3 align="center">A passionate web developer interested more in Frontend but intended in learning Backend too.</h3>
 
-- 🔭 I’m currently working on **Club Website**
+- 🔭 I’m currently working on **UrBot**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **NextJS**
 
 - 👯 I’m looking to collaborate on **Web Dev related projects.**
 
