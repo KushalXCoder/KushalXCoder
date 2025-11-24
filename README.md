@@ -1,43 +1,69 @@
-<h1 align="center">Hi 👋, I'm Kushal Rathod</h1>
-<h3 align="center">A passionate web developer interested more in Frontend but intended in learning Backend too.</h3>
+# 👨‍🚀 **Hey there, I'm *Kushal Rathod***
 
-- 🔭 I’m currently working on **InvoiceeAI**
+### 🛠️ Full‑Stack Web Developer • Frontend Fanatic • Idea Machine
 
-- 🌱 I’m currently learning **NextJS**
+I craft **modern web experiences** that blend performance, design, and functionality. I’m on a mission to build products that not only work—but *feel amazing to use*. Currently experimenting at the intersection of **AI + Web** and building tools that automate the boring so creativity can thrive.
 
-- 👯 I’m looking to collaborate on **Web Dev related projects**
+---
 
-- 📫 How to reach me **kushalrathod044@gmail.com**
+## 🚀 What I’m Building
 
-- ⚡ Fun fact **I am a coder !**
+### 🧾 **InvoiceeAI** — Smart, automated invoicing for modern businesses
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kushal rathod" target="blank" style="text-decoration: none; border: none;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushal rathod" height="30" width="40" style="text-decoration: none; border: none;" /></a>
-<a href="https://instagram.com/kushalrathod46" target="blank" style="text-decoration: none; border: none;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kushalrathod46" height="30" width="40" style="text-decoration: none; border: none;" /></a>
-</p>
+Automate workflows • Generate invoices with AI • Real‑time tracking • Zero stress
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="text-decoration: none; border: none;" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="text-decoration: none; border: none;" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="text-decoration: none; border: none;" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="text-decoration: none; border: none;" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="text-decoration: none; border: none;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="text-decoration: none; border: none;" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="text-decoration: none; border: none;" />
-  </a>
-</p>
+---
+
+## 🌱 Growing Every Day
+
+* Mastering **Next.js** & production‑grade architectures
+* Exploring **AI‑assisted development** & intelligent systems
+* Building UI that speaks louder than words
+
+---
+
+## 🤝 Let’s Create Together
+
+I love collaborating with **innovators, founders, and bold team players** to turn ideas into living products.
+
+> ✨ *If you're building something exciting or want to explore ideas—I'm in!* ✨
+
+---
+
+## 📡 Connect With Me
+
+🔗 LinkedIn: [https://linkedin.com/in/kushal-rathod](https://linkedin.com/in/kushal-rathod)
+📷 Instagram: [https://instagram.com/kushalrathod46](https://instagram.com/kushalrathod46)
+📧 Email: **[kushalrathod044@gmail.com](mailto:kushalrathod044@gmail.com)**
+
+---
+
+## 🧰 Tech Arsenal
+
+**Frontend**: React • Next.js • TailwindCSS • Bootstrap • JavaScript • HTML • CSS
+**Backend**: Node.js • Express • Firebase • MongoDB • SQL
+**Languages**: C++ • Java • Python
+**Tools**: Git • Postman • Figma • Docker (Basics)
+
+---
+
+## 🏆 Highlights
+
+* 🚀 Building real‑world, startup‑focused products
+* 🧠 Hackathon‑friendly & teamwork‑first mindset
+* 🎯 Passionate about user‑first software engineering
+
+---
+
+## 🎨 Personal Motto
+
+> "Tech isn’t just code — it’s imagination built into reality."
+
+---
+
+## ⭐ Support
+
+If my work inspires you, leave a ⭐ on my repos — it truly motivates creators like me!
+
+Thanks for stopping by! 🌟
+Let’s shape the future one line of code at a time.
