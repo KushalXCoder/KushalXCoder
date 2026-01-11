@@ -8,9 +8,9 @@ I craft **modern web experiences** that blend performance, design, and functiona
 
 ## 🚀 What I’m Building
 
-### 🧾 **InvoiceeAI** — Smart, automated invoicing for modern businesses
+### 🧾 **InvoiceeAI** — Smart, ai invoicing for modern businesses
 
-Automate workflows • Generate invoices with AI • Real‑time tracking • Zero stress
+Generate invoices with AI • Edit and Mail easily • Zero stress
 
 ---
 
