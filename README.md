@@ -1,69 +1,45 @@
-# 👨‍🚀 **Hey there, I'm *Kushal Rathod***
+# Hey there, I'm Kushal Rathod!
 
-### 🛠️ Full‑Stack Web Developer • Frontend Fanatic • Idea Machine
+### Creator of [CodeCoach](https://github.com/KushalXCoder/codecoach)
 
-I craft **modern web experiences** that blend performance, design, and functionality. I’m on a mission to build products that not only work—but *feel amazing to use*. Currently experimenting at the intersection of **AI + Web** and building tools that automate the boring so creativity can thrive.
+Frontend-focused Computer Science undergrad passionate about building **scalable, production-ready web applications** with clean architecture and great developer experience. Currently working hands-on with modern frontend stacks while collaborating in real-world startup and product environments.
 
----
-
-## 🚀 What I’m Building
-
-### 🧾 **InvoiceeAI** — Smart, ai invoicing for modern businesses
-
-Generate invoices with AI • Edit and Mail easily • Zero stress
+📍 Ahmedabad, India  
+📧 kushalwork2422@gmail.com ||
+Website: [KushalxCoder](https://kushalxcoder.vercel.app)
 
 ---
 
-## 🌱 Growing Every Day
+I’m a **B.Tech CSE student at Ahmedabad University** with a strong focus on frontend engineering and system design fundamentals. I enjoy turning complex requirements into performant, maintainable interfaces and love working at the intersection of **UI, performance, and API architecture**.
 
-* Mastering **Next.js** & production‑grade architectures
-* Exploring **AI‑assisted development** & intelligent systems
-* Building UI that speaks louder than words
-
----
-
-## 🤝 Let’s Create Together
-
-I love collaborating with **innovators, founders, and bold team players** to turn ideas into living products.
-
-> ✨ *If you're building something exciting or want to explore ideas—I'm in!* ✨
+- 🔭 Ex-Frontend Intern at **Club Duelz**, improving API performance & platform safety  
+- 🌱 Continuously sharpening my skills in **React, Next.js, TypeScript, and modern state/data management**
+- 🤝 Enjoy collaborating with founders, designers, and engineers in fast-paced environments
+- 🧠 Strong believer in applying **core CS concepts** to real-world frontend problems
 
 ---
 
-## 📡 Connect With Me
-
-🔗 LinkedIn: [https://linkedin.com/in/kushal-rathod](https://linkedin.com/in/kushal-rathod)
-📷 Instagram: [https://instagram.com/kushalrathod46](https://instagram.com/kushalrathod46)
-📧 Email: **[kushalrathod044@gmail.com](mailto:kushalrathod044@gmail.com)**
-
----
-
-## 🧰 Tech Arsenal
-
-**Frontend**: React • Next.js • TailwindCSS • Bootstrap • JavaScript • HTML • CSS
-**Backend**: Node.js • Express • Firebase • MongoDB • SQL
-**Languages**: C++ • Java • Python
-**Tools**: Git • Postman • Figma • Docker (Basics)
-
----
-
-## 🏆 Highlights
-
-* 🚀 Building real‑world, startup‑focused products
-* 🧠 Hackathon‑friendly & teamwork‑first mindset
-* 🎯 Passionate about user‑first software engineering
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?logo=javascript&color=F7DF1E)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?logo=typescript&color=3178C6)
+![C++](https://img.shields.io/badge/Code-C++-informational?logo=cplusplus&color=00599C)
+![React](https://img.shields.io/badge/Library-React-informational?logo=react&color=61DAFB)
+![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?logo=next.js&color=000000)
+![Tailwind CSS](https://img.shields.io/badge/CSS-Tailwind-informational?logo=tailwindcss&color=06B6D4)
+![TanStack Query](https://img.shields.io/badge/Data-TanStack_Query-FF4154)
+![Zustand](https://img.shields.io/badge/State-Zustand-000000)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-informational?logo=node.js&color=339933)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?logo=mongodb&color=47A248)
+![Redis](https://img.shields.io/badge/Cache-Redis-DC382D)
+![NextAuth](https://img.shields.io/badge/Auth-NextAuth-000000)
+![Postman](https://img.shields.io/badge/API-Postman-FF6C37)
 
 ---
 
-## 🎨 Personal Motto
+## 📫 Let’s Connect
 
-> "Tech isn’t just code — it’s imagination built into reality."
+I’m always open to collaboration, internships, hackathons, and open-source work.
 
+- 📧 Email: kushalwork2422@gmail.com  
 ---
 
-## ⭐ Support
-
-If my work inspires you, leave a ⭐ on my repos — it truly motivates creators like me!
-
-Thanks for stopping by! 🌟
-Let’s shape the future one line of code at a time.
+⭐ *If you like my work, consider starring my repositories!*
