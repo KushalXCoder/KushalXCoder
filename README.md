@@ -1,6 +1,6 @@
 # Hey there, I'm Kushal Rathod!
 
-### Creator of [CodeCoach](https://github.com/KushalXCoder/codecoach)
+### Building [FlowUI](https://github.com/KushalXCoder/flowui) and Creator of [CodeCoach](https://github.com/KushalXCoder/codecoach)
 
 Frontend-focused Computer Science undergrad passionate about building **scalable, production-ready web applications** with clean architecture and great developer experience. Currently working hands-on with modern frontend stacks while collaborating in real-world startup and product environments.
 
