@@ -10,7 +10,7 @@ Website: [KushalxCoder](https://kushalxcoder.vercel.app)
 
 ---
 
-I’m a **B.Tech CSE student at Ahmedabad University** with a strong focus on frontend engineering and system design fundamentals. I enjoy turning complex requirements into performant, maintainable interfaces and love working at the intersection of **UI, performance, and API architecture**.
+<!-- I’m a **B.Tech CSE student at Ahmedabad University** with a strong focus on frontend engineering and system design fundamentals. I enjoy turning complex requirements into performant, maintainable interfaces and love working at the intersection of **UI, performance, and API architecture**. -->
 
 - 🔭 Ex-Frontend Intern at **Club Duelz**, improving API performance & platform safety  
 - 🌱 Continuously sharpening my skills in **React, Next.js, TypeScript, and modern state/data management**
@@ -34,6 +34,17 @@ I’m a **B.Tech CSE student at Ahmedabad University** with a strong focus on fr
 ![Postman](https://img.shields.io/badge/API-Postman-FF6C37)
 
 ---
+
+## 📊 GitHub Stats:
+
+<table>
+    <tr>
+     <td><img height="250em" src="https://github-readme-stats.vercel.app/api?username=KushalXCoder&theme=dark&hide_border=false&include_all_commits=true" /></td>
+    <td><img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=KushalXCoder&theme=dark&hide_border=false" /></td>
+   </tr>
+ </table>
+
+ ---
 
 ## 📫 Let’s Connect
 
