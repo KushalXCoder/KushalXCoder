@@ -10,12 +10,13 @@ Website: [KushalxCoder](https://kushalxcoder.vercel.app)
 
 ---
 
-### Contributions
+### 🛠️ Open Source Contributions
 
-- [Vercel AI SDK](https://ai-sdk.dev) - docs: fix Google provider documentation links
-(#17368) (Merged)
-- [TinaCMS](https://tina.io) - Feature/tinacms docs breadcrumbs
-(#4678) (Reviewing)
+* **[Vercel AI SDK](https://github.com/vercel/ai)**
+  * Co-authored TypeScript type issues in Google Files API integration ([#17441](https://github.com/vercel/ai/issues/17441))
+  * Fixed broken link navigation in Google provider docs ([#17368](https://github.com/vercel/ai/pull/17368))
+* **[TinaCMS](https://github.com/tinacms/tinacms)**
+  * Implemented dynamic breadcrumbs for documentation ([#4678](https://github.com/tinacms/tinacms/pull/4678)) (In-Review)
 
 ---
 
