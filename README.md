@@ -15,6 +15,8 @@ Website: [KushalxCoder](https://kushalxcoder.vercel.app)
 * **[Vercel AI SDK](https://github.com/vercel/ai)**
   * Co-authored TypeScript type issues in Google Files API integration ([#17441](https://github.com/vercel/ai/issues/17441))
   * Fixed broken link navigation in Google provider docs ([#17368](https://github.com/vercel/ai/pull/17368))
+* **[Strapi](https://github.com/strapi/strapi)**
+  * Fixed cross-platform route matching and path traversal sanitization using POSIX path normalization ([#27158](https://github.com/strapi/strapi/pull/27158))
 * **[TinaCMS](https://github.com/tinacms/tinacms)**
   * Implemented dynamic breadcrumbs for documentation ([#4678](https://github.com/tinacms/tinacms/pull/4678)) (In-Review)
 
